@@ -15,4 +15,5 @@ Project realized in 5 days after class
 ```
 make
 ./myfind [...]
+make check
 ```
