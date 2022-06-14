@@ -1,6 +1,6 @@
 # MyFind
 
-EPITA project : recreate the find command
+EPITA project : create a simplified version of find command
 
  -  parse the command
  -  manage builtins
